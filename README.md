@@ -31,5 +31,4 @@
 
 <br>
 
-### Contribuições (Snake Game)
 ![Snake animation](https://raw.githubusercontent.com/jfzero1/jfzero1/output/github-contribution-grid-snake.svg)
