@@ -12,13 +12,6 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jfzero1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfzero1&layout=compact&langs_count=6&theme=tokyonight" />
-</div>
-
-<br>
-
-<div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=jfzero1&theme=tokyonight&hide_border=false" />
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=jfzero1&theme=tokyonight&no-bg=false&no-frame=false&column=3" />
 </div>
