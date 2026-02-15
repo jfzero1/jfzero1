@@ -5,10 +5,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 
- <div>
-   <a href="https://github.com/jfzero1">
-   <img height="180" src="https://github-readme-stats.vercel.app/api?username=jfzero1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfzero1&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/jfzero1">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=jfzero1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfzero1&layout=compact&langs_count=6&theme=tokyonight" />
+  </a>
 </div>
     
 <div style="display: inline_block"><br>
