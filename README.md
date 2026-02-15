@@ -38,12 +38,7 @@
 
 <br>
 
-<div align="center">
-  <h4>🍕 Pac-Man Game</h4>
-  <img src="https://raw.githubusercontent.com/jfzero1/jfzero1/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
-</div>
 
----
 
 ### 📫 Vamos nos conectar?
 
