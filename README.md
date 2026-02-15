@@ -14,7 +14,6 @@
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=jfzero1&theme=tokyonight&hide_border=false" />
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=jfzero1&theme=tokyonight&no-bg=false&no-frame=false&column=3" />
 </div>
 
 ---
