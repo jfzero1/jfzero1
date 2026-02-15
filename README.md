@@ -10,6 +10,7 @@
 ---
 
 ### 📊 Minhas Estatísticas
+<br>
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=jfzero1&theme=tokyonight&hide_border=false" />
@@ -21,9 +22,9 @@
 ### 🚀 Tecnologias
 
 <div align="center">
-  <img alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ---
@@ -32,15 +33,16 @@
 
 <div align="center">
   <h4>🐍 Snake Game</h4>
-  ![Snake animation](https://raw.githubusercontent.com/jfzero1/jfzero1/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/jfzero1/jfzero1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
 
 <div align="center">
   <h4>🍕 Pac-Man Game</h4>
-  ![Pacman animation](https://raw.githubusercontent.com/jfzero1/jfzero1/output/pacman-contribution-graph-dark.svg)
+  <img src="https://raw.githubusercontent.com/jfzero1/jfzero1/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
 </div>
+
 ---
 
 ### 📫 Vamos nos conectar?
@@ -48,6 +50,5 @@
 <div align="center"> 
   <a href="SEU_LINK_DO_YOUTUBE" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="SEU_LINK_DO_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
