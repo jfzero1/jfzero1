@@ -12,19 +12,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Pacman
-        # Usamos uma versão estável e verificada
-        uses: maurodesouza/github-readme-contribution-graph@v2.3.1
+      - name: Generate Pacman Style
+        uses: platane/snk@v3
         with:
           github_user_name: jfzero1
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: pacman-contribution-graph-dark.svg
+          outputs: |
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
