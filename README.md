@@ -32,16 +32,15 @@
 
 <div align="center">
   <h4>🐍 Snake Game</h4>
-  <img src="https://raw.githubusercontent.com/jfzero1/jfzero1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Snake animation](https://raw.githubusercontent.com/jfzero1/jfzero1/output/github-contribution-grid-snake.svg)
 </div>
 
 <br>
 
 <div align="center">
   <h4>🍕 Pac-Man Game</h4>
-  <img src="https://raw.githubusercontent.com/jfzero1/jfzero1/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
+  ![Pacman animation](https://raw.githubusercontent.com/jfzero1/jfzero1/output/pacman-contribution-graph-dark.svg)
 </div>
-
 ---
 
 ### 📫 Vamos nos conectar?
